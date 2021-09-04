@@ -1,5 +1,5 @@
 <h1 align="center">Sobre mim</h1>
-<h3 align="center">🚀 Olá sou conhecido como SkillOnex, atualmente com 18 anos vasculho a internet buscando conhecimentos 🚀</h3>
+<h3 align="center">🚀Olá sou conhecido como SkillOnex, atualmente com 18 anos vasculho a internet buscando conhecimentos🚀</h3>
 
 <div>
   <a href="https://github.com/SkillOnex">
