@@ -1,6 +1,3 @@
 <h1 align="center">Sobre mim</h1>
-<h1 align="center">
-    <a href="https://pt-br.reactjs.org/">🔗 React</a>
-</h1>
-<p align="center">🚀 lib para construir interfaces do usuário com componentes reutilizáveis</p>
+<p align="center">🚀 Olá sou conhecido como SkillOnex, atualmente com 18 anos vasculho a internet buscando conhecimentos</p>
 
