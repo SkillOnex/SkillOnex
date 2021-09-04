@@ -11,7 +11,7 @@
   ##
   
 <div>
-  <h2 align="center">🚀 Atualmente eu possuo conhecimento sobre as seguintes linguagens  🚀</h2>
+  <h2 align="center">🚀 Atualmente tenho conhecimento sobre as seguintes linguagens  🚀</h2>
 </div>
   
 <div style="display: inline_block"><br>
