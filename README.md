@@ -1,6 +1,8 @@
 <h1 align="center">Sobre mim</h1>
 <h3 align="center">🚀Olá sou SkillOnex, atualmente vasculho a internet buscando conhecimento🚀</h3>
 <p align="center">Não sou expert em nada todo meu conhecimento foi adquirido em livros, sites e forums da internet</p>
+<p align="center">Atualemte curso Técnico em Desenvolvimento de Sistemas no Senai em MG</p>
+
 
 <div>
   <a href="https://github.com/SkillOnex">
