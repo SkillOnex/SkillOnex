@@ -27,3 +27,6 @@
   <img align="center" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
 </div>
+
+## 🌐 Redes Sociais
+Discord - 𝕾𝖐𝖎𝖑𝖑𝕺𝖓𝖊𝖝#7142
