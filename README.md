@@ -1,3 +1,4 @@
+<img align="center" src="https://cdn.discordapp.com/attachments/1057713749110292610/1071577176341749760/HarmoniousUnknownAfghanhound-max-1mb.gif">
 <h1 align="center">Sobre mim!</h1>
 <h3 align="center">🚀Olá sou SkillOnex, atualmente vasculho a internet buscando conhecimento🚀</h3>
 <p align="center">Não sou expert em nada todo meu conhecimento foi adquirido em livros, sites e forums da internet.</p>
@@ -14,11 +15,30 @@
   ##
   
 <div>
-  <h2 align="center">🚀 Atualmente tenho conhecimento sobre as seguintes linguagens  🚀</h2>
+  <h2 align="center">🚀 Atualmente tenho conhecimento sobre as seguintes linguagens e ferramentas 🚀</h2>
 </div>
   
 
 <div style="display: inline_block"><br>
+
+  <img align="center" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+  
+  <img align="center" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" />
+
+  <img align="center" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" />
+
+  <img align="center" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+
+  <img align="center" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
+  <img align="center" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+
+  <img align="center" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+
+  <img align="center" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+
+  <img align="center" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+          
   <img align="center" height="100" width="40" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor">
   <img align="center" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg">
