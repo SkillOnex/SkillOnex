@@ -51,5 +51,21 @@
 
 </div>
 
-## 🌐 Redes Sociais
-Discord - 𝕾𝖐𝖎𝖑𝖑𝕺𝖓𝖊𝖝#7142
+
+
+## 🌐 Índice de conteúdo
+
+* [autoacceptlol](https://github.com/SkillOnex/autoacceptlol)<br>
+* [Site-Pirituba](https://github.com/SkillOnex/Site-Pirituba)<br>
+* [miami-beach-SITE](https://github.com/SkillOnex/miami-beach-SITE)<br>
+* [BotDiscord](https://github.com/SkillOnex/BotDiscord)<br>
+* [AutenticarUsuario](https://github.com/SkillOnex/AutenticarUsuario)<br>
+* [NavegadorSimples](https://github.com/SkillOnex/NavegadorSimples)<br>
+* [ModernLogin](https://github.com/SkillOnex/ModernLogin)<br>
+* [SimpleLoginTemplate](https://github.com/SkillOnex/SimpleLoginTemplate)<br>
+
+## 🔗 Links 
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://skillonex-portfolio.netlify.app)<br>
+[![Youtube](https://img.shields.io/youtube/channel/views/UCJ1xHIUP5xBjyN3IsYQW_Iw?style=social)](https://www.youtube.com/@SkillOnex/videos)<br>
+[![Discord](https://img.shields.io/discord/1057462143986970686?label=Discord&style=social)](https://discord.gg/KP95zWmAd7)
+
