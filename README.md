@@ -2,9 +2,9 @@
 <h1 align="center">Sobre mim!</h1>
 <h3 align="center">🚀Olá sou SkillOnex, atualmente vasculho a internet buscando conhecimento🚀</h3>
 <p align="center">Não sou expert em nada todo meu conhecimento foi adquirido em livros, sites e forums da internet.</p>
-<p align="center">Atualmente cursando Técnico em Desenvolvimento de Sistemas no Senai em MG e Engenharia de Software na Estácio.</p>
+<p align="center">Cursando Técnico em Desenvolvimento de Sistemas no Senai em MG e Engenharia de Software na Estácio.</p>
 
-
+##
 <div align="center">
   <a href="https://github.com/SkillOnex">
   
@@ -63,9 +63,10 @@
 * [NavegadorSimples](https://github.com/SkillOnex/NavegadorSimples)<br>
 * [ModernLogin](https://github.com/SkillOnex/ModernLogin)<br>
 * [SimpleLoginTemplate](https://github.com/SkillOnex/SimpleLoginTemplate)<br>
+  
 
 ## 🔗 Links 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://skillonex-portfolio.netlify.app)<br>
-[![Youtube](https://img.shields.io/youtube/channel/views/UCJ1xHIUP5xBjyN3IsYQW_Iw?style=social)](https://www.youtube.com/@SkillOnex/videos)<br>
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://skillonex-portfolio.netlify.app)
+[![Youtube](https://img.shields.io/youtube/channel/views/UCJ1xHIUP5xBjyN3IsYQW_Iw?style=social)](https://www.youtube.com/@SkillOnex/videos)
 [![Discord](https://img.shields.io/discord/1057462143986970686?label=Discord&style=social)](https://discord.gg/KP95zWmAd7)
 
