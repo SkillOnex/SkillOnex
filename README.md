@@ -12,15 +12,12 @@
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkillOnex&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-  ##
-  
-<div>
-  <h2 align="center">🚀 Atualmente tenho conhecimento sobre as seguintes linguagens e ferramentas 🚀</h2>
-</div>
+ 
+
   
 
 <div align="center" style="display: inline_block"><br>
-
+  <h2 >🚀 Atualmente tenho conhecimento sobre as seguintes linguagens e ferramentas 🚀</h2>
   <img align="center" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
   
   <img align="center" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" />
