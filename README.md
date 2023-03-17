@@ -4,7 +4,7 @@
 <p align="center">Não sou expert em nada todo meu conhecimento foi adquirido em livros, sites e forums da internet.</p>
 <p align="center">Cursando Técnico em Desenvolvimento de Sistemas no Senai em MG e Engenharia de Software na Estácio.</p>
 
-##
+
 <div align="center">
   <a href="https://github.com/SkillOnex">
   
@@ -17,7 +17,9 @@
   
 
 <div align="center" style="display: inline_block"><br>
-  <h2 >🚀 Atualmente tenho conhecimento sobre as seguintes linguagens e ferramentas 🚀</h2>
+  
+  <h3 >🚀 Atualmente tenho conhecimento sobre as seguintes linguagens e ferramentas 🚀</h3><br>
+  
   <img align="center" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
   
   <img align="center" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" />
@@ -48,7 +50,18 @@
 
 </div>
 
+## 🔥 Favoritos
 
+
+
+   
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SkillOnex&repo=BotDiscord&theme=react&hide_border=true)](https://github.com/SkillOnex/BotDiscord)
+
+  
+ 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SkillOnex&repo=AutenticarUsuario&theme=react&hide_border=true)](https://github.com/SkillOnex/AutenticarUsuario)
+
+  
 
 ## 🌐 Índice de conteúdo
 
