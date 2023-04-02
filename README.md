@@ -64,7 +64,7 @@
   
 
 ## 🌐 Índice de conteúdo
-
+* [BotTicketDiscord](https://github.com/SkillOnex/BotTicketDiscord)<br>
 * [autoacceptlol](https://github.com/SkillOnex/autoacceptlol)<br>
 * [Site-Pirituba](https://github.com/SkillOnex/Site-Pirituba)<br>
 * [miami-beach-SITE](https://github.com/SkillOnex/miami-beach-SITE)<br>
