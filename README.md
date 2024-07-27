@@ -54,14 +54,13 @@
 
 
 
-   
+<div align="center" style="display: inline_block">
+  
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SkillOnex&repo=API-REST&theme=react&hide_border=true)](https://github.com/SkillOnex/API-REST)
-
   
- 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SkillOnex&repo=ChatTcp&theme=react&hide_border=true)](https://github.com/SkillOnex/ChatTcp)
-
-  
+ 
+</div>
 
 ## 🌐 Índice de conteúdo
 * [API_REST](https://github.com/SkillOnex/API-REST)<br>
