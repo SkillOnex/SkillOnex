@@ -55,15 +55,17 @@
 
 
    
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SkillOnex&repo=BotDiscord&theme=react&hide_border=true)](https://github.com/SkillOnex/BotDiscord)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SkillOnex&repo=API-REST&theme=react&hide_border=true)](https://github.com/SkillOnex/API-REST)
 
   
  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SkillOnex&repo=API-REST&theme=react&hide_border=true)](https://github.com/SkillOnex/AutenticarUsuario)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SkillOnex&repo=ChatTcp&theme=react&hide_border=true)](https://github.com/SkillOnex/ChatTcp)
 
   
 
 ## 🌐 Índice de conteúdo
+* [API_REST](https://github.com/SkillOnex/API-REST)<br>
+* [ChatTcp](https://github.com/SkillOnex/ChatTcp)<br>
 * [BotTicketDiscord](https://github.com/SkillOnex/BotTicketDiscord)<br>
 * [autoacceptlol](https://github.com/SkillOnex/autoacceptlol)<br>
 * [Site-Pirituba](https://github.com/SkillOnex/Site-Pirituba)<br>
@@ -76,6 +78,6 @@
   
 
 ## 🔗 Links 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://skillonex-portfolio.netlify.app)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://marcelolab.dev.br)
 [![Youtube](https://img.shields.io/youtube/channel/views/UCJ1xHIUP5xBjyN3IsYQW_Iw?style=social)](https://www.youtube.com/@SkillOnex/videos)
 
