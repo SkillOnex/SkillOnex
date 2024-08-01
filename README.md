@@ -15,6 +15,7 @@
 <div align="center" style="display: inline_block"><br>
   <img align="center" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" height="100" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=ffffff" />
   <img align="center" height="100" width="40" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" />
   <img align="center" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
 </div>
@@ -38,6 +39,7 @@
   <img align="center" height="100" width="40" src="https://icongr.am/devicon/mongodb-original.svg?size=128&color=ff4747" />
   <img align="center" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+  <img align="center" height="100" width="40" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=128&color=ffffff" />
 </div>
 
 ## 🔥 Projetos Favoritos
