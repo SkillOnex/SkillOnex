@@ -31,6 +31,7 @@
 ### Back-end e Frameworks
 <div align="center" style="display: inline_block"><br>
   <img align="center" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" />
+  <img align="center" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
   <img align="center" height="100" width="40" src="https://icongr.am/devicon/laravel-plain-wordmark.svg?size=128&color=cc0f0f" />
 </div>
 
