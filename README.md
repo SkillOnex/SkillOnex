@@ -24,8 +24,8 @@
 <div align="center" style="display: inline_block"><br>
   <img align="center" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img align="center" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-  <img align="center" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" />
-  <img align="center" height="100" width="40" src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=128&color=b72af8" />
+  <img align="center" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
+  <img align="center" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 </div>
 
 ### Back-end e Frameworks
