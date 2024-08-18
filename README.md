@@ -48,8 +48,8 @@
   <a href="https://github.com/SkillOnex/API-REST">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SkillOnex&repo=API-REST&theme=react&hide_border=true" />
   </a>
-  <a href="https://github.com/SkillOnex/ChatTcp">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SkillOnex&repo=ChatTcp&theme=react&hide_border=true" />
+  <a href="https://github.com/SkillOnex/Meu-Ponto">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SkillOnex&repo=Meu-Ponto&theme=react&hide_border=true" />
   </a>
 </div>
 
