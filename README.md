@@ -54,25 +54,3 @@
   </a>
 </div>
 
-## 🌐 Índice de Conteúdo
-* [API_REST](https://github.com/SkillOnex/API-REST)
-* [ChatTcp](https://github.com/SkillOnex/ChatTcp)
-* [BotTicketDiscord](https://github.com/SkillOnex/BotTicketDiscord)
-* [autoacceptlol](https://github.com/SkillOnex/autoacceptlol)
-* [Site-Pirituba](https://github.com/SkillOnex/Site-Pirituba)
-* [miami-beach-SITE](https://github.com/SkillOnex/miami-beach-SITE)
-* [BotDiscord](https://github.com/SkillOnex/BotDiscord)
-* [AutenticarUsuario](https://github.com/SkillOnex/AutenticarUsuario)
-* [NavegadorSimples](https://github.com/SkillOnex/NavegadorSimples)
-* [ModernLogin](https://github.com/SkillOnex/ModernLogin)
-* [SimpleLoginTemplate](https://github.com/SkillOnex/SimpleLoginTemplate)
-
-## 🔗 Links 
-<div align="center">
-  <a href="https://marcelolab.dev.br" target="_blank">
-    <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.youtube.com/@SkillOnex/videos" target="_blank">
-    <img src="https://img.shields.io/youtube/channel/views/UCJ1xHIUP5xBjyN3IsYQW_Iw?style=social" alt="YouTube"/>
-  </a>
-</div>
