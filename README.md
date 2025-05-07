@@ -1,6 +1,6 @@
 <h1 align="center">Sobre mim!</h1>
 <h3 align="center">🚀 Olá, sou SkillOnex! Atualmente, estou explorando a internet em busca de conhecimento 🚀</h3>
-<p align="center">Não sou expert em nada; todo o meu conhecimento foi adquirido através de livros, sites e fóruns na internet.</p>
+<p align="center">Não sou expert em nada; todo o meu conhecimento foi adquirido através de livros, estudos, sites e fóruns na internet.</p>
 
 <div align="center">
   <a href="https://github.com/SkillOnex">
